@@ -5,7 +5,7 @@ Install requirements from requirements.txt file using pip install -r requirement
 
 ## You can use answerbook.ipynb to re-train models and see analysis of data.
 
-## aap.py is flask app which takes input weather parameters in form of list of dicts and give rainfall prediction. To run this app use python app.py and hit /predict POST request ## from postman. Sample input given below:
+## app.py is flask app which takes input weather parameters in form of list of dicts and give rainfall prediction. To run this app use python app.py and hit /predict POST request ## from postman. Sample input given below:
 
 ## Input:
 {
